@@ -49,7 +49,7 @@ char.Humanoid.AutoRotate=false
 char.Humanoid.WalkSpeed=0
 char.Humanoid.JumpPower=0
 char.Torso.Anchored = true
-notify('PUKI','Reanimating...\nPlease wait '..penis..' seconds.')
+notify('PUKI AMOY PATIS','Reanimating...\nPlease wait '..penis..' seconds.')
 wait(penis)
 char.Torso.Anchored=false
 notify('PUKI','Reanimated..')
