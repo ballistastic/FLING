@@ -199,7 +199,7 @@ kan.SoundId = "rbxassetid://3964574821"
 kan.Name = "scary"
 kan.Looped = true
 kan:Play()
-print"ORPLAYZ SCRIPT LOADED"
+print"Ballistastic Script Loaded"
 local function callback(Text)
  if Text == "Button1 text" then
   print ("Answer")
