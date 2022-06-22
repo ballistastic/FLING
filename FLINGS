@@ -23,7 +23,7 @@ maxspeed = 120
 lockedstate = false
     spawn(function()
         local message = Instance.new("Message", workspace)
-        message.Text = "Modded Invisible Fling Loaded\nPress Z to start\nPress X to respawn"
+        message.Text = "Ballistastic Gaming Modded Invisible Fling Loaded\nPress Z to start\nPress X to respawn"
         wait(2)
         message:Destroy()
     end)
