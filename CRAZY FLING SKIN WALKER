@@ -212,8 +212,8 @@ local NotificationBindable = Instance.new("BindableFunction")
 NotificationBindable.OnInvoke = callback
 --
 game.StarterGui:SetCore("SendNotification",  {
- Title = "OrPlayz";
- Text = "Script Loaded";
+ Title = "Ballistastic Gaming Script Loaded";
+ Text = "POTANGINA MO";
  Icon = "";
  Duration = 5;
  Button1 = "Subscribe";
